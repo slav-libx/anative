@@ -49,11 +49,6 @@ type
     destructor Destroy; override;
   end;
 
-//procedure TClickListener.onClick(v: JView);
-//begin
-//
-//end;
-
 procedure TCopyButtonClickListener.onClick(P1: JView);
 //var
 //  TextService: TTextServiceAndroid;
